@@ -119,7 +119,7 @@ Giant Waterproofing Co.
 <h3 style="color: red; margin: 50px 0; ">Note:</h3>
 <p style="border:1px solid red; padding:15px;">All details provided by candidate via tele-communication is considered in this document. If any changes found while measuring area on site, then that area will be considered in contract and amount will changed accordingly.</p>
 <h3 style="margin-top: 40px; text-align:center;">Product for Terrace Waterproofing
-    Area <span class="total">${feet*rate}</span>.ft (Approx.)
+    Area <span class="total">${feet}</span>.ft (Approx.)
 </h3>
 <table border="1">
     <thead>
